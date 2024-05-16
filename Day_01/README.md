@@ -44,25 +44,25 @@ Typically a combination of both Private and Public Cloud.
 
 ## Vocabulary
 
-- Virtualization and Virtual Machines (VMs): **Virtualization** is the creation of virtual versions of resources like servers, storage, and networks. 
+1. **Virtualization and Virtual Machines (VMs)**: **Virtualization** is the creation of virtual versions of resources like servers, storage, and networks. 
 
-A **virtual machine** is a software-based emulation of a physical computer system./A multiple logical servers created by Virtualization is called Virtual Machines.
+    A **virtual machine** is a software-based emulation of a physical computer system./A multiple logical servers created by Virtualization is called Virtual Machines.
 
-**Hypervisor** is a software that implements the Virtualization concept.
+    **Hypervisor** is a software that implements the Virtualization concept.
 
-- API : An API is a set of rules and protocols that allow different software applications to communicate and interact with each other./"Programatically accessing a service".
+2. **API** : An API is a set of rules and protocols that allow different software applications to communicate and interact with each other./"Programatically accessing a service".
 
-Example : Image if you want to spin up 100 VMs from Azure/AWS, you can use an API provided by Azure and create it. It can be done using shell/python scripting and API exposed by Azure.
+    Example : Image if you want to spin up 100 VMs from Azure/AWS, you can use an API provided by Azure and create it. It can be done using shell/python scripting and API exposed by Azure.
 
-- Region and Availability: AWS/Azure has multiple geographic Regions, each with multiple isolated Availability Zones. This design provides high availability, fault tolerance, and low latency.
+3. **Region and Availability**: AWS/Azure has multiple geographic Regions, each with multiple isolated Availability Zones. This design provides high availability, fault tolerance, and low latency.
 
-- Scalability and Elasticity: Scalability is the ability to increase or decrease resources as required. Elasticity refers to the dynamic scaling of resources in response to changing workload demands.
+4. **Scalability and Elasticity**: Scalability is the ability to increase or decrease resources as required. Elasticity refers to the dynamic scaling of resources in response to changing workload demands.
 
-- Load Balancing: Load balancing distributes incoming traffic across multiple resources (e.g., servers) to optimize performance, fault tolerance, and efficient resource utilization.
+5. **Load Balancing**: Load balancing distributes incoming traffic across multiple resources (e.g., servers) to optimize performance, fault tolerance, and efficient resource utilization.
 
-- High Availability: High availability refers to the ability of a system or service to remain operational and accessible even in the event of individual component failures.
+6. **High Availability**: High availability refers to the ability of a system or service to remain operational and accessible even in the event of individual component failures.
     - Example: Apps like Facebook, Instagram, X, Whatsapp rarely goes down.
 
-- Disaster Management: Cloud providers provide disaster management capabilities through services like CloudEndure Disaster Recovery, enabling customers to protect and recover their applications and data in case of regional outages or disasters.
+7. **Disaster Management**: Cloud providers provide disaster management capabilities through services like CloudEndure Disaster Recovery, enabling customers to protect and recover their applications and data in case of regional outages or disasters.
 
-- Fault Tolerance: Fault tolerance refers to the ability of a system to continue operating properly in the event of individual component failures with minimum downtime.
+8. **Fault Tolerance**: Fault tolerance refers to the ability of a system to continue operating properly in the event of individual component failures with minimum downtime.
