@@ -24,3 +24,8 @@
 - Exploring Regions and Availability zones.
 - IaaS, Paas and Saas model in Azure.
 
+## Day 3
+
+- Azure Resource
+- Azure Resource Manager
+- Azure Resource Groups
