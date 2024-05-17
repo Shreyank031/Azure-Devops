@@ -1,5 +1,7 @@
 # Basics of Cloud and Cloud Computing
 
+## Day 1
+
 - What is Cloud?
 - What is Cloud Computing?
 - Challanges faced previously?
@@ -15,4 +17,10 @@
     - High Availability
     - Disaster Management
     - Fault Tolerance
-    
+
+## Day 2
+
+- Creating an Account with Azure.
+- Exploring Regions and Availability zones.
+- IaaS, Paas and Saas model in Azure.
+
